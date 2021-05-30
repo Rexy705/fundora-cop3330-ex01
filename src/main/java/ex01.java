@@ -6,6 +6,6 @@ public class ex01 {
         Scanner input = new Scanner(System.in);
         String name = input.next();
 
-        System.out.println("Hello, R" + name + ", nice to meet you!");
+        System.out.println("Hello, " + name + ", nice to meet you!");
     }
 }
